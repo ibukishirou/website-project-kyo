@@ -1,6 +1,35 @@
 [
   {
     "plan": "basic",
+    "title": "Baby Sweet Berry Love",
+    "client": "あまねもも",
+    "date": "2026-10",
+    "mainVideo": "https://youtu.be/gdyNnnsakek?si=-XzGlpF0HOGEXMvu",
+    "subMedia": [
+      "https://x.com/MomoAmane/status/2115762069790454221?a=gMqTylFCuz5DzAGXlJo&s=20",
+      "https://youtube.com/shorts/YBeN4UGSGYk?si=Inc_Atmu163jklKx"
+    ],
+    "tags": [
+      "ポップ",
+      "かわいい"
+    ]
+  },
+  {
+    "plan": "basic",
+    "title": "シャンティ",
+    "client": "伊吹しろう",
+    "date": "2026-10",
+    "mainVideo": "https://youtu.be/PUMir8A7MOU?si=gxzuGoMifqKvgqpT",
+    "subMedia": [
+      "https://x.com/ibukishirou/status/2116013432424317407?a=D6NMkLO7xHZbUSy0gg0&s=20"
+    ],
+    "tags": [
+      "ダーク",
+      "かっこいい"
+    ]
+  },
+  {
+    "plan": "basic",
     "title": "未完成婚姻論 / Dannie May",
     "client": "たちつて とま",
     "date": "2026-10",
@@ -31,7 +60,13 @@
     "client": "伊吹しろう",
     "date": "2026-09",
     "mainVideo": "https://youtu.be/bUnyYEyb7DE",
-    "subMedia": [],
+    "subMedia": [
+      "https://youtube.com/shorts/z19z-cf4ilo?si=EjMg8VvWCcay53L2",
+      "https://youtube.com/shorts/EjveUwuovLM?si=D7DTHxnsSxs_mzZU",
+      "https://youtube.com/shorts/AFkl-TaYGio?si=_XnIqecWF6reffK8",
+      "https://youtube.com/shorts/AhHhZD-kJFY?si=L-cl9RdpkZeZ9BjU",
+      "https://youtube.com/shorts/vEIEV1DWIwY?si=kNiQCiPEm93m7kBP"
+    ],
     "tags": [
       "かっこいい",
       "ロック"
@@ -156,7 +191,11 @@
     "date": "2026-08",
     "mainVideo": "https://youtu.be/gS14bY7PQRw",
     "subMedia": [
-      "https://youtube.com/shorts/R4cxA15NBrI"
+      "https://youtube.com/shorts/R4cxA15NBrI",
+      "https://youtube.com/shorts/jc-NaYvXX8o?si=zJhYu4JqF8xiLs0S",
+      "https://youtube.com/shorts/DWNWZ-WBwCo?si=k7qGVultq0_yGzDW",
+      "https://youtube.com/shorts/5etcwVUSrjE?si=TBC-HyQ3R4ArckBp",
+      "https://youtube.com/shorts/4FF0Mf7DiQQ?si=u-FI6eDrMqoOxwhl"
     ],
     "tags": [
       "ダーク",
