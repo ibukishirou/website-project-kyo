@@ -1,13 +1,30 @@
 [
   {
     "plan": "basic",
-    "title": "Baby Sweet Berry Love",
+    "title": "聲 / 天野月子",
+    "client": "烏丸 都",
+    "date": "2026-11",
+    "mainVideo": "https://www.youtube.com/watch?v=-ZHZAn8vb3g",
+    "subMedia": [
+      "https://x.com/karasumamiyako/status/2120167983771447471",
+      "https://youtube.com/shorts/B1IsVfChkcg",
+      "https://youtube.com/shorts/XcHxrZa0Phs"
+    ],
+    "tags": [
+      "きれい",
+      "バラード"
+    ]
+  },
+  {
+    "plan": "basic",
+    "title": "Baby Sweet Berry Love / 小倉唯",
     "client": "あまねもも",
     "date": "2026-10",
     "mainVideo": "https://youtu.be/gdyNnnsakek?si=-XzGlpF0HOGEXMvu",
     "subMedia": [
       "https://x.com/MomoAmane/status/2115762069790454221?a=gMqTylFCuz5DzAGXlJo&s=20",
-      "https://youtube.com/shorts/YBeN4UGSGYk?si=Inc_Atmu163jklKx"
+      "https://youtube.com/shorts/YBeN4UGSGYk?si=Inc_Atmu163jklKx",
+      "https://youtube.com/shorts/JHzsGN0culg"
     ],
     "tags": [
       "ポップ",
@@ -16,7 +33,7 @@
   },
   {
     "plan": "basic",
-    "title": "シャンティ",
+    "title": "シャンティ / wotaku",
     "client": "伊吹しろう",
     "date": "2026-10",
     "mainVideo": "https://youtu.be/PUMir8A7MOU?si=gxzuGoMifqKvgqpT",
