@@ -1,6 +1,33 @@
 [
   {
     "plan": "basic",
+    "title": "テレキャスタービーボーイ / すりぃ",
+    "client": "KUPO",
+    "date": "2026-11",
+    "mainVideo": "https://www.youtube.com/watch?v=VbF8J2qEdSs",
+    "subMedia": [
+      "https://x.com/kuryu091/status/2123370704846377008"
+    ],
+    "tags": [
+      "漫画風",
+      "ロック"
+    ]
+  },
+  {
+    "plan": "basic",
+    "title": "ray / BUMP OF CHICKEN",
+    "client": "あさひホームズ",
+    "date": "2026-11",
+    "mainVideo": "https://www.youtube.com/watch?v=rSMfEQ5GVr8",
+    "subMedia": [
+      "https://x.com/Asahi_AM/status/2124338213389287689"
+    ],
+    "tags": [
+      "きれい"
+    ]
+  },
+  {
+    "plan": "basic",
     "title": "聲 / 天野月子",
     "client": "烏丸 都",
     "date": "2026-11",
